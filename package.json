@@ -1,0 +1,24 @@
+{
+  "name": "javascript-practices",
+  "version": "1.0.0",
+  "description": "covers javascript practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ibrahimuylas@github.com/ibrahimuylas/javascript-practices.git"
+  },
+  "author": "Ibrahim Uylas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrahimuylas/javascript-practices/issues"
+  },
+  "homepage": "https://github.com/ibrahimuylas/javascript-practices#readme",
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6"
+  }
+}
